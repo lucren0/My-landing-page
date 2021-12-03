@@ -1,0 +1,20 @@
+.banner {
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(23,199,226,1) 0%, rgba(252,119,6,1) 0%, rgba(218,209,209,1) 0%, rgba(0,0,0,1) 0%, rgba(201,204,182,0) 0%),url("../images/banner.jpg");
+	height: 65vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.banner h1 {
+	margin: 0;
+	color: white;
+}
+
+.banner h2 {
+	color: white;
+}
